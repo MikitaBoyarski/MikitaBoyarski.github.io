@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+body{
+  font-family: 'Urbanist', sans-serif;
+  font-size: 16px;
+}
+header{
+  width: 100%;
+  background-color: rgb(211, 157, 157);
+  color: blueviolet;
+  padding: 15px;
+}
+header a{
+  color: orange;
+}
+.top{
+  display: flex;
+  justify-content: space-between ;
+  align-items: center;
+}
+header .info{
+  display: block;
+}
+.menu ul{
+  list-style: none;
+  display: flex;
+}
+.menu ul li{
+  margin-left: 15px;
+}
+.menu ul li a{
+  text-decoration: none;
+}
