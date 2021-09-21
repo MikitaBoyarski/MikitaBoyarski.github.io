@@ -69,6 +69,23 @@ header .info{
   background-color: rgb(4, 12, 12);
   color: rgb(3, 54, 99);
 }
+.top2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(134, 228, 11);
+}
+footer{
+  width: 100%;
+  color: rgb(150, 95, 202);
+  padding: 15px;
+}
+
+
+
+
+
+
 
 
 
